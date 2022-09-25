@@ -1,5 +1,5 @@
 ( function(){
-	const Stats = function () {
+	var Stats = function () {
 
 		var mode = 0;
 
