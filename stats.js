@@ -1,4 +1,4 @@
-var Stats = function () {
+( function () {
 
 	var mode = 0;
 
@@ -162,4 +162,4 @@ Stats.Panel = function ( name, fg, bg ) {
 
 	};
 
-};
+})();
