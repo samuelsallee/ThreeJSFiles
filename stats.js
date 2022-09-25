@@ -1,4 +1,4 @@
-( function () {
+const Stats = function () {
 
 	var mode = 0;
 
@@ -162,4 +162,6 @@ Stats.Panel = function ( name, fg, bg ) {
 
 	};
 
-})();
+};
+
+export {Stats};
